@@ -1,0 +1,43 @@
+# Fill in, commit and push each day.
+# Group Member: Justin Leung
+Nov 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Tried to commit and push contact info using Eclipse
+				but failed.
+	Today     : Pushing and pulling using terminal worked.
+				Made rectangle class. Rectangle can be drawn in Paint.
+	Obstacles : Figuring out making branches and merging them.
+
+Nov 6, 2016
+	Yesterday : Finished user story 3. Helped Yesung and Aaron on bug 5.
+	Today     : Assign all user stories and bugs to members. Work on Bug 4.
+	Obstacles : Figuring out priorities of user stories/bugs.
+	
+Nov 7, 2016
+	Yesterday : Finished bug 4.
+	Today     : Work on user story 7.
+	Obstacles : Synchronizing slider with spinner.
+	
+Nov 8, 2016
+	Yesterday : Finished user story 7.
+	Today     : Help Yesung with bug 3.
+	Obstacles : Figuring out how to implement the ShapeFactory.
+	
+Nov 9, 2016
+	Yesterday : Helped Yesung with bug 3, but still not done.
+	Today     : Help Yesung with bug 3 and help Khalid with user story 4.
+	Obstacles : Git issues.

@@ -1,0 +1,41 @@
+# Fill in, commit and push each day.
+# Group Member: Khalid Hassan
+Nov 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Reading Assignment 2, and finding group/
+	Today     :Contacting all group members and starting the assingnment.
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday :contacting group members.
+	Today     :Completd User Story 6 , select the current drawing style (filled or outline)
+	Obstacles :when fill or outline is selected, all drawn shapes change to that.
+	
+Nov 7, 2016
+	Yesterday :worked on user story 6. 
+	Today     :work on user story 2. showing tracing of circle	
+	Obstacles :deleting tracing on not keeping the tracing of the circle.
+	
+Nov 8, 2016
+	Yesterday :started working on user story2. 
+	Today     :complete user story 2 and start with user story 4 to show tracing of rectangle
+	Obstacles :Rectangle tracing not working Properly
+	
+Nov 9, 2016
+	Yesterday :Completed user story 2. done circle, rectangle half tracing.
+	Today     :Finish User story4 , merge into master and merge bug 3.
+	Obstacles :Rectangle tracing not working properly.

@@ -1,0 +1,41 @@
+# Fill in, commit and push each day.
+# Group Member: Yesung Cho
+Nov 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Read over the assignment 2 requirements.
+	Today     : Begin Bug 5. Create class Squiggle and make appropriate changes to paint model. 
+	Obstacles : Difficulty Merging different branches.
+
+Nov 6, 2016
+	Yesterday : Worked on Bug5. Made appropriate changes with help from Justin and Aaron.
+	Today     : Finished Bug5. Begin Bug1. Distribute appropriate user stories to team members.
+	Obstacles :	Difficulty merging the branch into the master.
+	
+Nov 7, 2016
+	Yesterday : Finished Bug5, and distributed user stories among team members. Began Bug 1.
+	Today     :	Finish Bug 1.  
+	Obstacles : Searching for consistant icons, and still having difficulty merging from my branch to master. 
+	
+Nov 8, 2016
+	Yesterday : Finished working on Bug1. Able to allow shapes and the words unto the JButton.
+	Today     : Begin Bug3.
+	Obstacles : Restructuring Chooser 
+	
+Nov 9, 2016
+	Yesterday :
+	Today     :
+	Obstacles :

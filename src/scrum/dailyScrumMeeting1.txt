@@ -1,0 +1,44 @@
+# Fill in, commit and push each day.
+# Group Member: Aaron Merino
+Nov 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Arnold was still forming/finalizing the groups.
+	Today     : Worked on "Circle drawing is broken" (Bug 6)
+	Obstacles : Git push and merging, circle not in correct position
+
+Nov 6, 2016
+	Yesterday : Worked on Circle, and helped fixed Bug5 branch from Yesung
+	Today     : Fixed Bug7 where PC users can create squiggles, fixed Bug2 to disable buttons so user knows which
+				Shape is chosen.
+	Obstacles : Non
+	
+Nov 7, 2016
+	Yesterday : Fixed Bug7 so users can create squiggles properly and Bug2 to disable buttons so user knows
+				which Shape is chosen.
+	Today     : Implemented UserStory5 so that user can now select the current drawing color, to be applied to 
+				subsequent shapes.
+	Obstacles : Figuring out how to remove certain components in JColorChooser
+	
+Nov 8, 2016
+	Yesterday : Finished UserStory5 so user can now select current drawing color, to be applied to subsequent shapes.
+	Today     : Changed Branch Bug2 so that mode starts at non; used to be starting at circle.
+	Obstacles : Non
+	
+Nov 9, 2016
+	Yesterday : updated Bug2 so that no shape is selected in beginning.
+	Today     : Worked on Bug3. This made a somewhat working implementation of Rectangle feedback. But circle feedback is working fine.
+	Obstacles :
